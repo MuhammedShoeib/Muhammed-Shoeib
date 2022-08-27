@@ -4,12 +4,12 @@ The track is divided to 3 phases.
 
 ## :beginner: Beginner level :beginner:
 
-**1. Pyhon**<br>
+**1. Pyhon** <br>
         &emsp;&emsp;&emsp;:video_camera:[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity <br>
         &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - DataCamp <br>
         &emsp;&emsp;&emsp;:closed_book: [Think Python](https://www.greenteapress.com/thinkpython/thinkpython.pdf) - Book <br>                      
 
-**2. Numpy**<br>
+**2. Numpy** <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](http://cs231n.github.io/python-numpy-tutorial/) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
@@ -20,7 +20,12 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
 
-**8. Data Visualization** :bar_chart:	<br>
+
+**6. Data Visualization** :bar_chart:	<br>
+        &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python) - Corey Schafer <br>
+
+
+
         &emsp;&emsp;&emsp;:video_camera: [Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib?fbclid=IwAR1OrJSdZ2LVD_c1o3d-_1I7Nhq8OZ3pzTu4010E_XWEmMc0KYsTosz8CIU) or<br>
         &emsp;&emsp;&emsp;:video_camera: [ Corey Schafer - Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) or<br>
         &emsp;&emsp;&emsp;:video_camera: [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
@@ -35,7 +40,7 @@ The track is divided to 3 phases.
 
 
 
-https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python
+
 
 
 
