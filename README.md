@@ -15,7 +15,7 @@ The track is divided to 3 phases.
 &emsp;&emsp;&emsp;:closed_book: [NumPy User Guide](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
 
 **3. Pandas**<br>
-        &emsp;&emsp;&emsp;:video_camera:  [Youtube-Playlist] (https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
+        &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas)<br>
         &emsp;&emsp;&emsp;:closed_book: [Docs](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html)<br>
         &emsp;&emsp;&emsp;:video_camera: [Playlist-Youtube](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)<br>
