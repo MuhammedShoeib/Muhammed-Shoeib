@@ -20,12 +20,17 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/pandas) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
 
+**6. Scipy**<br>
+        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy) <br>
+        &emsp;&emsp;&emsp;:closed_book: [Documentation](https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide) <br>
+
+
 
 **6. Data Visualization** :bar_chart:	<br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python) - 4 Courses (Matplotlib, Seaborn,             Bokeh) <br>
 
 
-
+https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
 
 
 
