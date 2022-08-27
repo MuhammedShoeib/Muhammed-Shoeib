@@ -11,7 +11,7 @@ The track is divided to 3 phases.
 
 **2. Numpy** <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
-        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](http://cs231n.github.io/python-numpy-tutorial/) <br>
+        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
 
 **3. Pandas**<br>
