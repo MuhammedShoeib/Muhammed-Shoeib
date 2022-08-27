@@ -10,6 +10,6 @@ The track is divided to 3 phases.
 &emsp;&emsp;&emsp;:closed_book: [Think Python](https://www.greenteapress.com/thinkpython/thinkpython.pdf?usp=sharing(https://www.greenteapress.com/thinkpython/thinkpython.pdf?usp=sharing)**) - Book <br>
 
 **2. Numpy**<br>
-&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) - Kaggle <br>
-&emsp;&emsp;&emsp;:closed_book: [Tutorial](http://cs231n.github.io/python-numpy-tutorial/) - CS231n <br>
-&emsp;&emsp;&emsp;:closed_book: [Docs](https://numpy.org/doc/1.18/user/quickstart.html) - NumPy User Guide <br>
+&emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
+&emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](http://cs231n.github.io/python-numpy-tutorial/) <br>
+&emsp;&emsp;&emsp;:closed_book: [NumPy User Guide](https://numpy.org/doc/1.18/user/quickstart.html)<br>
