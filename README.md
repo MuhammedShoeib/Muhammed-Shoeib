@@ -4,6 +4,6 @@ The track is divided to 3 phases.
 
 ## :beginner: Beginner level :beginner:
 
-**1. Descriptive Stats.** <br>
+**1. Descriptive Stats.**
 
 
