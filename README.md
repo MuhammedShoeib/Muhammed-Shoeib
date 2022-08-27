@@ -1,4 +1,4 @@
-#AI roadmap.
+#AI roadmap
 
 The track is divided to 3 phases.
 
