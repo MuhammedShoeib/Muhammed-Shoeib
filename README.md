@@ -28,7 +28,7 @@ The track is divided to 3 phases.
 
 **6. Data Visualization** :bar_chart:	<br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python) - 4 Courses (Matplotlib, Seaborn,               Bokeh) <br>
-        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#matplotlib) <br>
+        &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#matplotlib) - Matplotlib <br>
 
 
 
