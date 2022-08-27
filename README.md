@@ -9,3 +9,4 @@ The track is divided to 3 phases.
 &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - DataCamp<br>
 
 
+https://www.greenteapress.com/thinkpython/thinkpython.pdf
