@@ -34,7 +34,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://matplotlib.org/devdocs/tutorials/introductory/index.html#) - Matplotlib <br>
         &emsp;&emsp;&emsp;:closed_book: [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) - by Nicolas P. Rougier <br>
         &emsp;&emsp;&emsp;:closed_book: [The Python Graph Gallery](https://www.python-graph-gallery.com/) - by Yan Holtz <br>
-        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn <br>   
+        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn  
         &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn <br>   
 
 
