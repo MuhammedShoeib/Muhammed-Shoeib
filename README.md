@@ -36,7 +36,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-cleaning) <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle1](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices) <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle2](https://www.kaggle.com/bandiatindra/telecom-churn-prediction) <br/>
-        &emsp;&emsp;&emsp;:closed_book: [Some Data](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-                             Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M) <br/>
+        &emsp;&emsp;&emsp;:closed_book: [Some Data](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-        Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M) <br/>
 
         
 
