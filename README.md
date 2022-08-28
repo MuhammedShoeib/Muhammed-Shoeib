@@ -26,6 +26,14 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://docs.scipy.org/doc/scipy/) - User Guide <br>
 
 
+**5. Data Cleaning**: One of the **MOST** important skills that you need to master to become a good data scientist, you need to practice on many datasets to master it.<br>
+        &emsp;&emsp;&emsp;[Read this](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
+        &emsp;&emsp;&emsp;:video_camera: [Course 1](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)<br/>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle Data cleaning](https://www.kaggle.com/learn/data-cleaning)<br>
+
 
 **6. Data Visualization** :bar_chart:	<br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python) - 4 Courses (Matplotlib, Seaborn,               Bokeh) <br>
