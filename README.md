@@ -30,13 +30,12 @@ The track is divided to 3 phases.
 **6. Data Visualization** :bar_chart:	<br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python) - 4 Courses (Matplotlib, Seaborn,               Bokeh) <br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB) - Corey Schafer                 (Matplotlib) <br> 
-        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/data-visualization) <br>
+        &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn <br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#matplotlib) - Matplotlib <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://matplotlib.org/devdocs/tutorials/introductory/index.html#) - Matplotlib <br>
         &emsp;&emsp;&emsp;:closed_book: [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) - by Nicolas P. Rougier <br>
         &emsp;&emsp;&emsp;:closed_book: [The Python Graph Gallery](https://www.python-graph-gallery.com/) - by Yan Holtz <br>
-        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn  
-        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn <br>   
+
 
 
 
