@@ -35,6 +35,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://matplotlib.org/devdocs/tutorials/introductory/index.html#) - Matplotlib <br>
         &emsp;&emsp;&emsp;:closed_book: [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) - by Nicolas P. Rougier <br>
         &emsp;&emsp;&emsp;:closed_book: [The Python Graph Gallery](https://www.python-graph-gallery.com/) - by Yan Holtz <br>
+        &emsp;&emsp;&emsp;:video_camera: [sentdex - Playlist on YouTube](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF)<br>
 
 
 
