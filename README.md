@@ -38,7 +38,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Kaggle2](https://www.kaggle.com/bandiatindra/telecom-churn-prediction) <br/>
         &emsp;&emsp;&emsp;:closed_book: [Some Data](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-                             Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M) <br/>
 
-
+        
 
 
 **6. Data Visualization** :bar_chart:	<br>
