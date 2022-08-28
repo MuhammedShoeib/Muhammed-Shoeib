@@ -15,7 +15,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
         &emsp;&emsp;&emsp;:closed_book: [Huawei Talent](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
-        &emsp;&emsp;&emsp;closed_book: [Practice - Kaggle](https://www.kaggle.com/code/utsav15/100-numpy-exercises) <br>
+        &emsp;&emsp;&emsp;:closed_book: [Practice - Kaggle](https://www.kaggle.com/code/utsav15/100-numpy-exercises) <br>
 
 
 **3. Pandas**<br>
