@@ -9,11 +9,13 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [OOP](https://learn.datacamp.com/courses/object-oriented-programming-in-python) - DataCamp <br>
         &emsp;&emsp;&emsp;:closed_book: [Think Python](https://www.greenteapress.com/thinkpython/thinkpython.pdf) - Book <br>                      
 
+
 **2. Numpy** <br>
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
         &emsp;&emsp;&emsp;:closed_book: [Huawei Talent](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
+
 
 **3. Pandas**<br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
@@ -21,18 +23,21 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/pandas) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
 
+
 **4. Scipy**<br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://docs.scipy.org/doc/scipy/) - User Guide <br>
 
 
+
 **5. Data Cleaning**: One of the **MOST** important skills that you need to master to become a good data scientist, you need to practice on many datasets to master it.<br>
-        &emsp;&emsp;&emsp;[Article](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)<br>
-        &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://www.datacamp.com/courses/cleaning-data-in-python)<br>
-        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-cleaning)<br>
-        &emsp;&emsp;&emsp;:closed_book: [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction)<br/>
-        &emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M)<br/>
-        &emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices)<br>
+        &emsp;&emsp;&emsp;[Article](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4) <br>
+        &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://www.datacamp.com/courses/cleaning-data-in-python) <br>
+        &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-cleaning) <br>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook1](https://www.kaggle.com/bandiatindra/telecom-churn-prediction) <br/>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook2](https://drive.google.com/drive/folders/1OQAEQ8rC4j6oBP7AyDU4bKpPr8sSStJI?fbclid=IwAR2dSrbyoZLM-Wm57yEYy8L8PmpPV9hqXdkNf-pURJC5C5xCz7UJB4YpJ7M) <br/>
+        &emsp;&emsp;&emsp;:closed_book: [Notebook3](https://www.kaggle.com/ashishg21/data-cleaning-and-some-analysis-shoe-prices) <br>
+
 
 
 **6. Data Visualization** :bar_chart:	<br>
