@@ -13,6 +13,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:closed_book: [Kaggle](https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science) <br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://numpy.org/doc/1.18/user/quickstart.html) - First 4 Chapters <br>
+        &emsp;&emsp;&emsp;:closed_book: [Huawei Talent](https://drive.google.com/file/d/1cdYROgc7D9zXmkjWRbq16POyDFI5JzSH/view) <br>
 
 **3. Pandas**<br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
