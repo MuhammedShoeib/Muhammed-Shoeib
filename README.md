@@ -22,7 +22,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer <br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-manipulation-with-python) - 4 Courses <br>
         &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/pandas) <br>
-         &emsp;&emsp;&emsp;closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
+        &emsp;&emsp;&emsp;closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
 
 
 **4. Scipy**<br>
