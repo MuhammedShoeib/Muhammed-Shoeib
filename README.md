@@ -60,8 +60,8 @@ The track is divided to 3 phases.
 
 
 **1. Machine Learning**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization — Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) - Coursera - 3 Courses <br>
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) - Coursera - 3 Courses <br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube<br>
 
 
 
