@@ -64,7 +64,7 @@ The track is divided to 3 phases.
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube         
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Spring 2019 - Introduction to Machine Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html) - Advanced <br>
          &emsp;&emsp;&emsp;:video_camera: [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) - Advanced <br>
-         &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Udacity <br>
          &emsp;&emsp;&emsp;:video_camera: [Hesham Asem - Arabic content](https://www.youtube.com/c/HeshamAsem/playlists)<br>
          &emsp;&emsp;&emsp;:video_camera: [IBM ML with Python](https://www.coursera.org/learn/machine-learning-with-python)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning From Scratch - YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)<br>
