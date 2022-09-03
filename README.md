@@ -67,7 +67,7 @@ The track is divided to 3 phases.
          &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Udacity <br>
          &emsp;&emsp;&emsp;:video_camera: [Hesham Asem youtube channel](https://www.youtube.com/c/HeshamAsem/playlists) - Arabic content <br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) - Coursera - IBM <br>
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning From Scratch - YouTube (Python Engineer)](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning from Scratch - Python Tutorials](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) - Youtube<br>
          &emsp;&emsp;&emsp;:closed_book: [Hands on ML book](https://drive.google.com/file/d/15J7YoyRcmwQE2mgW5yVs-MrPL3YtmuSz/view?usp=sharing&fbclid=IwAR1RVi90sfrggEaZnc1roXW9H8AGECyHcsQnZw22FORq-HSaP0VlBU5CAiM)<br>
          &emsp;&emsp;&emsp;:video_camera: [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)<br>
          &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
