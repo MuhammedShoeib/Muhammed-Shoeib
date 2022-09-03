@@ -60,7 +60,7 @@ The track is divided to 3 phases.
 
 
 **1. Machine Learning**<br>
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)<br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng <br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera Andrew`s new ML Specialization (Python)](https://www.coursera.org/specializations/machine-learning-introduction?_hsenc=p2ANqtz-_R9x3Nm07uCw6YAw9VpCpdjRdfaUFyxdOcvgDljRt7j_NXiahN1plnI_Ob9jn0jSNipuE_Y08llrfPSt_1P7EBvj4LuImpBTKG3bsR6Z9bzjzBoRY&_hsmi=216611333&action=enroll&utm_campaign=mls-launch-2022&utm_content=216613012&utm_medium=email&utm_source=hs_email#courses)<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Stanford Full Course on YouTube by Andrew](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)<br>
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Intro to Machine Learning - Spring 2019 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k)<br>
