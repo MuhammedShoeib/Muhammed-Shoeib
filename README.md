@@ -58,19 +58,6 @@ The track is divided to 3 phases.
 
 ## :beginner: Intermediate :beginner:
 
-**1. Math for ML**: consists of Linear Algebra, Calculus and PCA. <br>
-:video_camera: [Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)<br>
-:video_camera: [Mathematics for Machine Learning - Most of the needed basics](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)<br><br>
-:small_blue_diamond:Linear Algebra<br>
-         &emsp;&emsp;&emsp;:video_camera: [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)<br>
-         &emsp;&emsp;&emsp;:video_camera: [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)<br>
-:small_blue_diamond:Calculus<br>
-         &emsp;&emsp;&emsp;:video_camera: [Multivariate Calculus - Coursera](https://www.coursera.org/learn/multivariate-calculus-machine-learning?fbclid=IwAR243aoz0jxs4iUn539pnjSQliXtr7Y5QAsvgeRTietZT_tkyoRU3b6Sq1o)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Essence of calculus - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)<br>
-:small_blue_diamond:PCA<br>
-         &emsp;&emsp;&emsp;:video_camera: [PCA - Coursera](https://www.coursera.org/learn/pca-machine-learning)<br>
-
 
 **2. Machine Learning**<br>
          &emsp;&emsp;&emsp;:video_camera: [Coursera Free Course by Andrew Ng (Octave/Matlab)](https://www.coursera.org/learn/machine-learning)<br>
@@ -87,32 +74,7 @@ The track is divided to 3 phases.
          &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
          &emsp;&emsp;&emsp;:video_camera: [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
 
-**3. Web Scraping/APIs**<br>
-         &emsp;&emsp;&emsp;:video_camera: [course](https://learn.datacamp.com/courses/web-scraping-with-python)<br>
-         &emsp;&emsp;&emsp;:closed_book: [intro2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Book for both topics](https://b-ok.africa/book/3515980/5d50aa)<br>
-APIs <br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Article](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-pull-data-from-an-api-using-python-requests-edcc8d6441b1)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://rapidapi.com/blog/how-to-use-an-api-with-python/)<br>
-**4. Stats.**<br>
-         &emsp;&emsp;&emsp;:closed_book: [This stats - Book](https://b-ok.africa/book/2737548/7659e9)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Think Bayes - Book](https://b-ok.africa/book/2737587/ab97d5)<br>
-**5. Advanced SQL**<br>
-         &emsp;&emsp;&emsp;:video_camera: [More advanced SQL](https://www.coursera.org/lecture/data-driven-astronomy/more-advanced-sql-GDmo5)<br>
-         &emsp;&emsp;&emsp;:video_camera: [Joining Data in SQL](https://learn.datacamp.com/courses/joining-data-in-postgresql)<br>
 
-**7. Feature Engineering**<br>
-         &emsp;&emsp;&emsp;:closed_book: [Tutorial](https://www.kaggle.com/learn/feature-engineering)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Article](https://www.medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ffeature-engineering-for-machine-learning-3a5e293a5114)<br>
-         &emsp;&emsp;&emsp;:closed_book: [Book](https://b-ok.cc/book/3583182/056a36)<br>
-**8. interpet Shapley-based explanations of ML models.**<br/>
-        &emsp;&emsp;&emsp;:closed_book: [SHAP](https://shap.readthedocs.io/en/latest/)<br/>
-        &emsp;&emsp;&emsp;:closed_book: [Kaggle ML explainability](https://www.kaggle.com/learn/machine-learning-explainability)<br/>
-<h4><i>After finishing this level apply to 2 or 3 good sized projects.</i></h4><br>
-  
-***
 
 
 
