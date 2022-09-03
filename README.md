@@ -69,7 +69,7 @@ The track is divided to 3 phases.
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) - Coursera - IBM <br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning from Scratch - Python Tutorials](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) - Youtube<br>
          &emsp;&emsp;&emsp;:video_camera: [ML Algorithms in Practice](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ) - Coursera<br>
-         &emsp;&emsp;&emsp;:video_camera: [ML scientist](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)<br>
+         &emsp;&emsp;&emsp;:video_camera: [ML scientist track](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1) - DataCamp - 20 Courses <br>
          &emsp;&emsp;&emsp;:video_camera: [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
 
 
