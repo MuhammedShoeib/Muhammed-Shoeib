@@ -61,7 +61,7 @@ The track is divided to 3 phases.
 
 **1. Machine Learning**<br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) - Coursera - 3 Courses <br>
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube <br>        
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube<br>        
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Spring 2019 - Introduction to Machine Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html) - Advanced <br>
          &emsp;&emsp;&emsp;:video_camera: [SYDE 522 â€“ Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT)<br>
          &emsp;&emsp;&emsp;:video_camera: [Introduction to Machine Learning Course - Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)<br>
