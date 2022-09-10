@@ -44,7 +44,6 @@ The track is divided to 3 phases.
 **6. Data Visualization** :bar_chart:	<br>
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-visualization-with-python) - 4 Courses (Matplotlib, Seaborn,               Bokeh) <br>
         <br>
-
         &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/data-visualization) - Seaborn <br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d) - Seaborn   <br> 
         <br>
