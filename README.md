@@ -23,7 +23,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [DataCamp](https://app.datacamp.com/learn/skill-tracks/data-manipulation-with-python) - 4 Courses <br>
         &emsp;&emsp;&emsp;:video_camera: [Kaggle](https://www.kaggle.com/learn/pandas) <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://pandas.pydata.org/docs/pandas.pdf) - User Guide <br>
-        emsp;&emsp;&emsp;:closed_book: [Article](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandasbd09cb4c3d79#:~:text=Differences%20between%20loc%20and%20iloc,-The%20main%20distinction&text=loc%20is%20label%2Dbased%2C%20which,0%2Dbased%20integer%20position) - loc vs iloc <br>
+        &emsp;&emsp;&emsp;:closed_book: [Article](https://towardsdatascience.com/how-to-use-loc-and-iloc-for-selecting-data-in-pandas-bd09cb4c3d79#:~:text=Differences%20between%20loc%20and%20iloc,-The%20main%20distinction&text=loc%20is%20label%2Dbased%2C%20which,0%2Dbased%20integer%20position) - loc vs iloc <br>
 
 **4. Scipy**<br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#scipy) <br>
