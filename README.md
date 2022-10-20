@@ -61,7 +61,7 @@ The track is divided to 3 phases.
 
 
 **1. Machine Learning** <br>
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization - Andrew Ng](https://www.coursera.org/learn/ai-for-everyone/home/welcome) - Coursera - AI for everyone<br>
+         &emsp;&emsp;&emsp;:video_camera: [AI for everyone - Andrew Ng](https://www.coursera.org/learn/ai-for-everyone/home/welcome) - Coursera <br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) - Coursera - 3 Courses <br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube         
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Spring 2019 - Introduction to Machine Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html) - Advanced <br>
