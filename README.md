@@ -76,7 +76,7 @@ The track is divided to 3 phases.
 
 
 **1. Mathematics** <br>
-         &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera <br>
+         &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera - 3 Courses <br>
 
 
 
