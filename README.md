@@ -49,7 +49,7 @@ The track is divided to 3 phases.
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=z7ZINBk8EUk&list=PL998lXKj66MpNd0_XkEXwzTGPxY2jYM2d) - Seaborn   <br> 
         <br>
         &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) - Corey Schafer                 (Matplotlib) <br>
-        &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) - Sentdex (Matplotlib)           <br>
+        &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) - Sentdex (Matplotlib)         <br>
         &emsp;&emsp;&emsp;:closed_book: [CS231n Tutorial](https://cs231n.github.io/python-numpy-tutorial/#matplotlib) - Matplotlib <br>
         &emsp;&emsp;&emsp;:closed_book: [Documentation](https://matplotlib.org/devdocs/tutorials/introductory/index.html#) - Matplotlib <br>
         &emsp;&emsp;&emsp;:closed_book: [Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial) - by Nicolas P. Rougier <br>
@@ -61,8 +61,8 @@ The track is divided to 3 phases.
 
 
 **1. Machine Learning** <br>
-         &emsp;&emsp;&emsp;:video_camera: [AI for everyone - Andrew Ng](https://www.coursera.org/learn/ai-for-everyone/home/welcome) - Coursera <br>   
-         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) - Coursera - 3 Courses <br>    
+         &emsp;&emsp;&emsp;:video_camera: [AI for everyone - Andrew Ng](https://www.coursera.org/learn/ai-for-everyone/home/welcome) - Coursera <br>
+         &emsp;&emsp;&emsp;:video_camera: [Machine Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) - Coursera - 3 Courses <br>
          &emsp;&emsp;&emsp;:video_camera: [Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Youtube         
          &emsp;&emsp;&emsp;:video_camera: [CS480/680 Spring 2019 - Introduction to Machine Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19/index.html) - Advanced <br>
          &emsp;&emsp;&emsp;:video_camera: [SYDE 522 – Machine Intelligence (Winter 2018, University of Waterloo)](https://www.youtube.com/playlist?list=PL4upCU5bnihwCX93Gv6AQnKmVMwx4AZoT) - Advanced <br>
@@ -76,7 +76,8 @@ The track is divided to 3 phases.
 
 
 **2. Mathematics** <br>
-         &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera - 3 Courses <br>
+        &emsp;&emsp;&emsp;:video_camera: [Youtube-Playlist](https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=2) - 3Blue1Brown (Linear Algebra) <br>
+        &emsp;&emsp;&emsp;:video_camera: [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) - Coursera - 3 Courses <br>
 
 
 
